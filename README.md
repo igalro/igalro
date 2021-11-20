@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Igal
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently a Full stack Engineer 
+- 💞️ I’m looking to collaborate on great projects
+- 📫 How to reach me: igalro7@gmail.com
