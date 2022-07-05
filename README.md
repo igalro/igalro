@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Igal
-- 🌱 I’m currently a Full stack Engineer at PayEm
-- 💞️ I’m looking to collaborate on great projects
+Hi, I’m Igal
+Full stack Engineer at PayEm
 - 📫 How to reach me: igalro7@gmail.com
